@@ -24,7 +24,7 @@ struct NewToDoView: View {
             } label: {
                     Text("Save")
             }
-            }
+            }//button
         }//VStack
         .padding()
     }//body
